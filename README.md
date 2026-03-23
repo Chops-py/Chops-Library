@@ -7,5 +7,5 @@
 <img src="https://github.com/Chops-py/Chops-Library/blob/main/OC.png" alt="CAT" style="float:left;width:128px;height:128px;"> I like this design<br><br>
 by the way, the subjects I will be uploading are:<br>Programacion y metodos numericos<br>Metodologia de la Programacion (send activities to my hotmail)<br><br>
 **In the future i will be uploading more activities from more subjects (request subjets to my hotmail)**
-<br><br> **My Hotmail:** chopsxd2707@outlook.com
+<br><br> **My Outlook:** chopsxd2707@outlook.com
 </i>
