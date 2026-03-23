@@ -1,0 +1,3 @@
+function limpieza()
+clc;
+end
