@@ -8,4 +8,6 @@
 by the way, the subjects I will be uploading are:<br>Programacion y metodos numericos<br>Metodologia de la Programacion (send activities to my hotmail)<br><br>
 **In the future i will be uploading more activities from more subjects (request subjets to my hotmail)**
 <br><br> **My Outlook:** chopsxd2707@outlook.com
+<br><br> **REOPENING, NEED A CODE FOR A SPECIFIC TASK? SEND A MAIL AND I WILL WORK FOR YOU (you must pay for it)** <br>
+ (Every code will be opensource)
 </i>
